@@ -1,6 +1,6 @@
 ﻿  ; The name and description of the theme used on the admin/build/themes page.
-name        = Vojo.co: Generic Theme
-description = The generic theme for the Vojo.co hosted VozMob service.
+name        = Incourage Vojo.co Theme
+description = The theme for Incourage Courage Reports group on the the Vojo.co hosted VozMob service.
 
   ; The screenshot used on the admin/build/themes page.
 screenshot = screenshot.png
